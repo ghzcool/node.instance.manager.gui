@@ -1,7 +1,7 @@
 const http = require('http');
 const server = http.createServer();
 const express = require('express');
-const package = require('../package.json');
+const package = require('./package.json');
 
 //express
 const app = express();
