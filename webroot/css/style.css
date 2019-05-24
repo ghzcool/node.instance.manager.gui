@@ -1,0 +1,156 @@
+.card.node {
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.nodes {
+	margin-left: -20px;
+}
+
+.nodes .placeholder {
+	width: 100vw;
+	height: 90vh;
+	line-height: 90vh;
+	text-align: center;
+}
+
+.nodes .card-subtitle {
+	width: 250px;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+
+.modal-body .placeholder {
+	height: 50vh;
+	line-height: 50vh;
+	text-align: center;
+}
+
+.system-info .card-body {
+	height: 36px;
+	padding: 8px 12px;
+}
+
+.system-info .card-body .card-text {
+	height: 20px;
+	line-height: 20px;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.card.info-card {
+	margin-bottom: 10px;
+}
+
+.card-columns.cpu-columns {
+	column-count: 2;
+}
+
+.card-header {
+	padding-right: 0.75rem;
+}
+
+.card-footer {
+	padding-left: 0.75rem;
+	padding-right: 0.75rem;
+}
+
+.card-header .card-title {
+	margin-bottom: 0;
+}
+
+.margin-right-10 {
+	margin-right: 10px;
+}
+
+.console-output {
+	height: 60vh;
+	overflow: auto;
+	background-color: black;
+	color: lightgray;
+	font-size: 10.5px;
+	line-height: 10.5px;
+	font-family: monospace;
+	white-space: pre;
+}
+
+#enviromentVariables .form-group.labels {
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+
+.login-container {
+	margin-top: 50px;
+	width: 300px;
+}
+
+.btn-toolbar.pull-right .btn-group {
+	margin-left: 8px;
+	margin-right: 0 !important;
+}
+
+.form-subtitle {
+	overflow: hidden;
+}
+
+.flex {
+	display: flex;
+}
+
+.flex-0 {
+	flex: 0;
+}
+
+.flex-1 {
+	flex: 1;
+}
+
+.flex-2 {
+	flex: 2;
+}
+
+.flex-3 {
+	flex: 3;
+}
+
+.flex-4 {
+	flex: 4;
+}
+
+.flex-5 {
+	flex: 5;
+}
+
+.flex-6 {
+	flex: 6;
+}
+
+.flex-7 {
+	flex: 7;
+}
+
+.flex-8 {
+	flex: 8;
+}
+
+.flex-9 {
+	flex: 9;
+}
+
+.flex-10 {
+	flex: 10;
+}
+
+.flex-11 {
+	flex: 11;
+}
+
+.flex-12 {
+	flex: 12;
+}
+
+.pull-right {
+	float: right;
+}

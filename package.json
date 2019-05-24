@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "name": "node-instance-manager-gui",
+  "description": "GUI for Node.js instances management",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghzcool/node.instance.manager-gui.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.4",
+    "jquery-create": "^1.0.6"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
